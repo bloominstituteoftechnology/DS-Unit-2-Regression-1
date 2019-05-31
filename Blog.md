@@ -7,12 +7,12 @@ I looked at the relationships between income growth, consumer price index, and i
 
 The predicted vs actual vote totals look like this:
 
-![vote error]()
+![vote error](/votes.PNG)
 
 Apperently it doesn't explain anything at all.
 
-![error metrics]()
+![error metrics](/89q7r7.PNG)
 
 The plane of best fit, with predicted and actual totals for test data in red and black, the training data in blue.
 
-![plane]()
+![plane](/hmmm2.PNG)
