@@ -1,5 +1,5 @@
-##This is a Blog Post!
-###It's about what I did in school today.
+This is a Blog Post!
+t's about what I did in school today.
 
 I spent most of the day working on drawing some short, straight lines. So far unsuccessfully. Before that I did two feature linear regression to learn about presidential elections. 
 
